@@ -1,13 +1,5 @@
 ## Olá! Sou Dev Jess.
 
-Sou Desenvolvedora e YouTuber.
-
-### 🔍 Conecte-se comigo
-
-Apresento meu Canal no YouTube, no qual, falo sobre Dicas e Curiosidades de Programação.
-
-[![Canal Youtube](https://img.shields.io/badge/-Youtube-30A3DC?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/@Desenvolvendo_e_Aprendendo)
-
 ### 🧐 Meu GitHub 
 ![Anurag's GitHub stats](https://github.com/DevJess2/Dio_Lab_Open_Source)
 
